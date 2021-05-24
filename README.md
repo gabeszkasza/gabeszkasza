@@ -1,5 +1,5 @@
 - 👀 I’m interested in linux kernel developement. I want to make my own Linux based os for fun.
-- 🌱 I’m currently learning web developement and C programming.
+- 🌱 I’m currently learning web developement and Rust programming, and wanna create a game in Godot game engine with Rust under the hood.
 - 📫 How to reach me: I have a simple website which is gonna be used for my Hungarian podcast. [gabeszkasza.github.io]
 
 <!---
